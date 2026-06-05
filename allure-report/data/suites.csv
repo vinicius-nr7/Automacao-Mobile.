@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","32734","Login, cadastro de Vinicius Rodrigues e busca no search","","2026-06-05","passed","2026-06-05","","Qazando App - Fluxo de apresentação:","Qazando App - Fluxo de apresentação:","Login, cadastro de Vinicius Rodrigues e busca no search"
+"","18078","Login negativo - usuário inválido","","2026-06-05","passed","2026-06-05","","Qazando App - Fluxo de apresentação:","Qazando App - Fluxo de apresentação:","Login negativo - usuário inválido"
+"","17856","Login negativo - senha inválida","","2026-06-05","passed","2026-06-05","","Qazando App - Fluxo de apresentação:","Qazando App - Fluxo de apresentação:","Login negativo - senha inválida"

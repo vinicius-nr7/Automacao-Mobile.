@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1780700976497' stop='1780701045169'>
+    <name>Qazando App - Fluxo de apresentação:</name>
+    <title>Qazando App - Fluxo de apresentação:</title>
+    <test-cases>
+        <test-case start='1780700976499' status='passed' stop='1780701009233'>
+            <name>Login, cadastro de Vinicius Rodrigues e busca no search</name>
+            <title>Login, cadastro de Vinicius Rodrigues e busca no search</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1780701009234' status='passed' stop='1780701027312'>
+            <name>Login negativo - usuário inválido</name>
+            <title>Login negativo - usuário inválido</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1780701027312' status='passed' stop='1780701045168'>
+            <name>Login negativo - senha inválida</name>
+            <title>Login negativo - senha inválida</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

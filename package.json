@@ -1,0 +1,23 @@
+{
+  "name": "qazando-mobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "npx codeceptjs run --reporter mocha-allure-reporter --steps",
+    "report:serve": "npx allure serve allure-results",
+    "report:generate": "npx allure generate allure-results --clean -o allure-report",
+    "report:open": "npx allure open allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "appium": "^3.5.0",
+    "codeceptjs": "^4.0.3",
+    "allure-commandline": "^2.13.9",
+    "mocha-allure-reporter": "^1.1.0"
+  }
+}
