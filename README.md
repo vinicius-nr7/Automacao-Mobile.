@@ -79,17 +79,6 @@ Relatórios Allure estão disponíveis para documentação dos testes e podem se
 
 Este projeto gera resultados do Allure em `allure-results` quando os testes são executados com o plugin habilitado.
 
-Exemplo de visualização do relatório (gerado localmente):
-
-Visão geral:
-![Allure overview](docs/allure-1.png)
-
-Comportamentos / casos:
-![Allure behaviors](docs/allure-2.png)
-
-Gráficos:
-![Allure graphs](docs/allure-3.png)
-
 - Executar testes (gera `allure-results`):
 
 ```bash
