@@ -74,6 +74,7 @@ As configurações de execução estão em `codecept.conf.cjs` (pausas ajustadas
 Para mudanças ou novos cenários, abra uma issue.
 
 ## Relatórios Allure
+<img width="1918" height="1017" alt="Captura de tela 2026-06-05 201726" src="https://github.com/user-attachments/assets/67ffd429-768a-41bb-a96d-1b475bf21726" />
 
 Relatórios Allure estão disponíveis para documentação dos testes e podem ser gerados/servidos localmente. Veja abaixo como gerar e visualizar.
 
